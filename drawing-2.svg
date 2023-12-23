@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   sodipodi:docname="drawing-2.svg"
+   inkscape:export-filename="drawing-2.png"
+   inkscape:export-xdpi="253.08681"
+   inkscape:export-ydpi="253.08681"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.1997092"
+     inkscape:cx="300.94887"
+     inkscape:cy="317.54197"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 76.546392,28.407217 V 117.54124"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 59.706184,101.04124 H 160.06701"
+       id="path2" />
+    <rect
+       style="opacity:0.289322;fill:#ff7e00;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-dasharray:0.264583, 0.264583"
+       id="rect2"
+       width="10.584732"
+       height="39.758148"
+       x="84.076454"
+       y="61.283295"
+       rx="0.39999998"
+       ry="0.45798293" />
+    <rect
+       style="opacity:0.289322;fill:#000080;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-dasharray:0.264583, 0.264583"
+       id="rect3"
+       width="10.584732"
+       height="52.086853"
+       x="99.70742"
+       y="48.954388"
+       rx="0.39999998"
+       ry="0.60000002" />
+    <rect
+       style="opacity:0.289322;fill:#00ff00;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-dasharray:0.264583, 0.264583"
+       id="rect4"
+       width="10.584732"
+       height="41.923187"
+       x="114.02087"
+       y="59.118221"
+       rx="0.39999998"
+       ry="0.48292252" />
+    <rect
+       style="opacity:0.289322;fill:#d40000;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-dasharray:0.264583, 0.264583"
+       id="rect5"
+       width="10.584732"
+       height="35.849045"
+       x="128.33432"
+       y="65.192459"
+       rx="0.39999998"
+       ry="0.41295311" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:inconsolata;-inkscape-font-specification:inconsolata;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="94.794243"
+       y="111.07732"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+         x="94.794243"
+         y="111.07732">some axis label</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:inconsolata;-inkscape-font-specification:inconsolata;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="-89.289368"
+       y="69.087959"
+       id="text6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+         x="-89.289368"
+         y="69.087959">some axis label</tspan></text>
+  </g>
+</svg>
